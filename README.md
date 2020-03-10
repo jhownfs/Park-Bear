@@ -1,4 +1,3 @@
-# Park-Bear
-Lightning web component to monitoring Park Bear
+# Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components
 
-This project is based on studies with trailhead with LWC.
+
